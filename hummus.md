@@ -5,5 +5,10 @@
 * Lemon
 * Olive oil
 * Salt
-* Tahini
+* Tahinii
+
+#Instructions for hummus
+
+Blend the chickpeas
+
 
