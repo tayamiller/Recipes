@@ -1,7 +1,11 @@
 #Guacamole
 
 ##Ingredients
-Avocado
-Salt 
+*Avocados
+*Salt
+*Pepper
+*Lime
+*Chilli flakes
+ 
 
 ##Instructions
