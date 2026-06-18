@@ -1,0 +1,2 @@
+*.png #ignore all picures
+picture/ #ignore everything in this file 
