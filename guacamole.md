@@ -10,4 +10,4 @@
 
 ##Instructions
 Smash the avocado
-Juice the lime
+Juice the lime without seeds
