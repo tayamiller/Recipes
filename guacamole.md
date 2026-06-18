@@ -10,3 +10,4 @@
 
 ##Instructions
 Smash the avocado
+Juice the lime
