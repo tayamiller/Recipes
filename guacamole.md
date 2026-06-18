@@ -1,5 +1,7 @@
 #Guacamole
 
-##Ingredients 
+##Ingredients
+Avocado
+Salt 
 
 ##Instructions
